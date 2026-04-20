@@ -1,0 +1,9 @@
+## Interface: 11508, 20505, 30403, 40401, 50503
+## Title: Altank |cFFDE1010j|r
+## Notes: be the best you can be 
+## Author: j
+## Version: 1.7
+## SavedVariables: AltankDB
+
+raids.lua
+Altank.lua
